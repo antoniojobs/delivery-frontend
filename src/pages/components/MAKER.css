@@ -1,0 +1,10 @@
+.MARCADOR{
+  height: fit-content;
+  transform: translate(-11%, -14px);
+  display: table;
+  border-spacing: 0px;
+  border: solid 1px #ea4335;
+  padding: 3px;
+  border-radius: 10px 10px 10px 22px;
+  background-color: #ea4335;
+}
