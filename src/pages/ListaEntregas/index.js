@@ -15,7 +15,7 @@ export default function ListaEntregas() {
       marginLeft: 10,
     }}
     >
-    Listatem de entregas
+    Listagem de entregas
     </span>
     </h2>
     <TabelaEntregas/>
